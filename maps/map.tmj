@@ -32,7 +32,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/localhost:5173\/games\/game-esg\/genially.html"
+                 "value":"https:\/\/caderno.eadstock.com.br\/TESTE\/game-esg\/genially.html"
                 }],
          "type":"tilelayer",
          "visible":true,
