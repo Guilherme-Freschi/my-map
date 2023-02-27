@@ -219,7 +219,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-office"
+                         "value":"mapa.tmj#from-office"
                         }],
                  "type":"tilelayer",
                  "visible":true,
